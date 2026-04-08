@@ -46,14 +46,13 @@ static const char* const COMMENTS_TIER3[] = {
     "The chess gods have blessed me with extra pieces.",
 };
 static const char* const COMMENTS_TIER4[] = {
-    "This pawn identifies as a Queen now.",
     "Your pieces look better in my colors.",
     "Field promotion, very common in wartime.",
-    "Puberty hits different in chess.",
+    "Holy hell!",
 };
 static const char* const COMMENTS_TIER5[] = {
     "I AM THE BOARD.",
-    "Rules are a social construct.",
+    "Google em passant.",
     "UNLIMITED POWER!",
     "Your king is taking a vacation.",
     "Dance, puppet.",
